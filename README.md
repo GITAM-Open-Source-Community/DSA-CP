@@ -1,4 +1,4 @@
-[![hacktoberfestlogo](https://hacktoberfest.digitalocean.com/img/logo-hacktoberfest-full.7d5e2645.svg "hacktoberfestlogo")](https://hacktoberfest.digitalocean.com/ "hacktoberfestlogo")
+[![hacktoberfestlogo](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg "hacktoberfestlogo")](https://hacktoberfest.digitalocean.com/ "hacktoberfestlogo")
 > Open source is changing the world – one contribution at a time.
 
 
